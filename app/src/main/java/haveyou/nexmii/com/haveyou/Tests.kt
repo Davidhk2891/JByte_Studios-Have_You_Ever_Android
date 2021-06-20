@@ -7,6 +7,6 @@
 
 package haveyou.nexmii.com.haveyou
 
-class First {
-    //TODO: Add project to your Github
+class Tests {
+
 }
