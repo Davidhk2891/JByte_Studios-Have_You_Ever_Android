@@ -9,4 +9,6 @@ package haveyou.nexmii.com.haveyou
 
 class Tests {
 
+    //Kotlin file for testing all things kotlin
+
 }
