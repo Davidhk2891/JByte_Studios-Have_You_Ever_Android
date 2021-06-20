@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~  Created by David Rajchenberg on 20/06/2021, 8:27
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 20/06/2021, 8:27
+  ~
+  -->
+
+<resources>
+
+    <!--  Brand theme colors - static color  -->
+    <attr name="Brand1_100" format="color" />
+
+</resources>
